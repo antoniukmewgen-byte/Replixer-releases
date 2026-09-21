@@ -1,5 +1,5 @@
 {
-  "version": "1.6.9",
+  "version": "1.7.7",
   "files": [
     {
       "path": "Accessibility.dll",
@@ -328,18 +328,18 @@
     },
     {
       "path": "Replixer.deps.json",
-      "sha256": "d8e9622068dda4e6427c9636fb5019f92d34a8cfd7cfae592f4ac7410a3503dc",
-      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.6.9/Replixer.deps.json"
+      "sha256": "93fbb3165a848172b2b58d2d5120bd84fa9e2ab8b2cf30b5427588084259d2d6",
+      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.7.7/Replixer.deps.json"
     },
     {
       "path": "Replixer.dll",
-      "sha256": "be6f33ee01ac6d138560e2faeef776cda6808972a8747960c2cc4949095a6060",
-      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.6.9/Replixer.dll"
+      "sha256": "c548ecc9b9feaf65c29817c08c968f5296b39220332902729bc3e9e5df6cbc1e",
+      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.7.7/Replixer.dll"
     },
     {
       "path": "Replixer.exe",
-      "sha256": "a0c489fc2b82f2af0826df2e61d3c57fa098edacca049026b4d7022c6d831126",
-      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.6.9/Replixer.exe"
+      "sha256": "a85821a70cf0d154f7a3a8f9f41957a50020a2b1d72a1641086c52ffb41a0d3c",
+      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.7.7/Replixer.exe"
     },
     {
       "path": "Replixer.runtimeconfig.json",
