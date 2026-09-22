@@ -1,5 +1,5 @@
 {
-  "version": "1.7.8",
+  "version": "1.7.9",
   "files": [
     {
       "path": "Accessibility.dll",
@@ -322,29 +322,29 @@
       "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.6.8/PresentationUI.dll"
     },
     {
+      "path": "QuantaVortex.deps.json",
+      "sha256": "544b2520204d1af1efe1d3689792e020a377788f041a81ec89680790017d4919",
+      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.7.9/QuantaVortex.deps.json"
+    },
+    {
+      "path": "QuantaVortex.dll",
+      "sha256": "656a6b65eb9298ea50230e721986f31c0059e2bdc3fc7b43d6626a63b704c9ca",
+      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.7.9/QuantaVortex.dll"
+    },
+    {
+      "path": "QuantaVortex.exe",
+      "sha256": "92e1f52d7b723e524682e9c99b289e0d8aabe6bdf7973acf7cb33fd78c528dfb",
+      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.7.9/QuantaVortex.exe"
+    },
+    {
+      "path": "QuantaVortex.runtimeconfig.json",
+      "sha256": "2556f3e7cb7f562c3139a4c08ea55a28fba36f396a1ff2e49f1aa66aa27adaa3",
+      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.7.9/QuantaVortex.runtimeconfig.json"
+    },
+    {
       "path": "ReachFramework.dll",
       "sha256": "0e4c8abafd26d0fe4abea03423b8c9374a1ab043099f365fe71723ce5e1205d2",
       "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.6.8/ReachFramework.dll"
-    },
-    {
-      "path": "Replixer.deps.json",
-      "sha256": "6dc37d8d8f15214af799df8a57f5dbded81f1c3c6955d7a98b299b30e44eca9d",
-      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.7.8/Replixer.deps.json"
-    },
-    {
-      "path": "Replixer.dll",
-      "sha256": "2bbadace2a1480cf17c3bfff7f478ba2dc6f468dbcde2de48e9c9245d9cbd172",
-      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.7.8/Replixer.dll"
-    },
-    {
-      "path": "Replixer.exe",
-      "sha256": "e6beb82d4ae6a74e10b2b20f18932113dce25fa6e94c861beb514f6b5f9fdae6",
-      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.7.8/Replixer.exe"
-    },
-    {
-      "path": "Replixer.runtimeconfig.json",
-      "sha256": "2556f3e7cb7f562c3139a4c08ea55a28fba36f396a1ff2e49f1aa66aa27adaa3",
-      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.6.8/Replixer.runtimeconfig.json"
     },
     {
       "path": "System.AppContext.dll",
