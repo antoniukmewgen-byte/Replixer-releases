@@ -1,5 +1,5 @@
 {
-  "version": "1.8.2",
+  "version": "1.8.3",
   "files": [
     {
       "path": "Accessibility.dll",
@@ -323,18 +323,18 @@
     },
     {
       "path": "QuantaVortex.deps.json",
-      "sha256": "89e950c1ec8e638085db4a2002961c10f342bef25b58e897449f7e7ffd02a52e",
-      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.8.2/QuantaVortex.deps.json"
+      "sha256": "fa398020ed0a328f4e1cc2f4064ea7ceaa46dd828b3284ed12b492345ced6c79",
+      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.8.3/QuantaVortex.deps.json"
     },
     {
       "path": "QuantaVortex.dll",
-      "sha256": "15174c978ada115a1454a4aa0299517b0e9dc3cc975a143bc51ecf18554e3d47",
-      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.8.2/QuantaVortex.dll"
+      "sha256": "ac5391acbd9a76e50cecaa1e771332327f7536dcdbc5b3df4801d002f868dcc9",
+      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.8.3/QuantaVortex.dll"
     },
     {
       "path": "QuantaVortex.exe",
-      "sha256": "df229c5f697c113a85b9e9a48546fa7645f7681e5ef65cd8027a7d907f43bdf9",
-      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.8.2/QuantaVortex.exe"
+      "sha256": "61cf083bf5f5c72b2e13c2e7e9f9b5ffb4789aaa0df063d94095f6853270f797",
+      "url": "https://github.com/antoniukmewgen-byte/Replixer-releases/releases/download/v1.8.3/QuantaVortex.exe"
     },
     {
       "path": "QuantaVortex.runtimeconfig.json",
